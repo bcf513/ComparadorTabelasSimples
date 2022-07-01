@@ -10,7 +10,7 @@ O programa abre uma interface (que programei usando o Tkinter) com campos para p
 Para comparar, o programa utiliza a biblioteca Pandas, guardando ambas as tabelas (Csv e Excel) em variáveis; depois, por meio do método Map da Lista e de uma compreensão de lista, é criada uma nova coluna chamada "Verificado" em uma das tabelas, que indica se aquele boleto está ou não na lista de já pagos; após a conferência, é criada uma nova variável, para guardar uma versão da tabela com as células da nova coluna coloridas e centralizadas.
 Por fim, a tabela final é salva em um arquivo Excel chamado "Final" na mesma pasta.
 
-## O que aprendi com isto?
+## O que você aprendeu com isto?
 
 A tarefa de comparar as tabelas em si foi um tanto fácil, levei poucas horas para concluir; mas como na época que escrevi eu não tinha experiência em criar interfaces, demorou um pouco para aprender a lidar com o Tkinter (quase uma semana). Ainda assim, foi um projeto que me deu uma satisfação imensa ao ser concluído, por poder ajudar outras pessoas através da tecnologia (ainda mais por indiretamente auxiliar meu pai), além de poder aprender a usar novas ferramentas (o Pandas, por exemplo).
 
